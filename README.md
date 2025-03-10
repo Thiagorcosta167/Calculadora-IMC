@@ -5,7 +5,9 @@ Um projeto cujo objetivo é calcular o IMC (Índice de Massa Corporal) de uma pe
 ## Linguagens Utilizadas
 
 • HTML
+
 • CSS
+
 • JAVASCRIPT
 
 
