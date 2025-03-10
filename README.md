@@ -1,6 +1,13 @@
 # Calculadora-IMC
 
-Um projeto simples usando HTML, que tem como objetivo calcular o IMC (Índice de Massa Corporal) de uma pessoa
+Um projeto cujo objetivo é calcular o IMC (Índice de Massa Corporal) de uma pessoa
+
+## Linguagens Utilizadas
+
+• HTML
+• CSS
+• JAVASCRIPT
+
 
 ## Observações
 
