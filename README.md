@@ -1,6 +1,6 @@
 # Calculadora-IMC
 
-Um projeto cujo objetivo é calcular o IMC (Índice de Massa Corporal) de uma pessoa
+Uma aplicação cujo objetivo é calcular o IMC (Índice de Massa Corporal) de uma pessoa
 
 ## Linguagens Utilizadas
 
